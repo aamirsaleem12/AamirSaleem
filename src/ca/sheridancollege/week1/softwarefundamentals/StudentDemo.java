@@ -19,7 +19,7 @@ public class StudentDemo
    * @param givenID - the ID to assign
    * @param givenName- the name to assign 
    */
-  public StudentDemo(String givenID, String givenName)
+    public StudentDemo(String givenID, String givenName)
   {
       studentID = givenID;
       name = givenName;
