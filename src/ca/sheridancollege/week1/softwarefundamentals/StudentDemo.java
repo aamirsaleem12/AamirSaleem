@@ -17,10 +17,7 @@ public class StudentDemo
   {
       studentID=givenID;
   }
-  /**
-   * An accessor method for studentID
-   * @return the student's ID 
-   */
+ 
   public String getStudentID()
   {
       return studentID;
@@ -31,7 +28,7 @@ public class StudentDemo
      * @return the name
      */
     public String getName() {
-        return name;
+                        return name;
     }
 
     /**
